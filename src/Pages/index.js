@@ -1,0 +1,7 @@
+export { Home } from './Home'
+export { Error404 } from './Error404'
+export { Store } from './Store'
+export { Cart } from './Cart'
+export { ProductDetail } from './ProductDetail'
+export { Profile } from './Profile'
+export { WishList } from './WishList'
